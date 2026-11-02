@@ -1,0 +1,344 @@
+[
+  {
+    "question": "How long will it take to get my order if I live in Addis Ababa?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.789,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "I'm in Hawassa. When should my coffee arrive?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.74,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "How much do I need to spend to get free shipping?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.646,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "Can you send coffee to someone in Kenya?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.667,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "I bought a bag but changed my mind and haven't opened it. How long do I have to send it back?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.741,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "Can I return a bag I already opened because I didn't like the taste?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.676,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "The bag I received was torn. How quickly do I need to tell you?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.707,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "When will my money come back after you receive my return?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.722,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "How much is the Starter subscription?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.747,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "How many bags come with the Family plan?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.615,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "How far ahead do I need to act if I want to skip next month's delivery?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.652,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "Which coffee should I choose if I like bright, floral flavours?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.635,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "How fresh is the coffee when it arrives?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.686,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "Is cash on delivery available, and is there a limit?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.651,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "Can I use a promo code on top of the new-subscriber discount?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.635,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "What water temperature and coffee-to-water ratio should I use for pour-over?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.824,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "What's your recommended espresso recipe?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.71,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "When can I contact your support team?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.595,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "What's the smallest wholesale order for a cafe?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.631,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "I'm a new customer taking the Enthusiast plan. What will I pay for my first month?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.745,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "My order is 2,000 ETB and I'm in Addis Ababa. Can I pay cash on delivery, and what will shipping cost?",
+    "answerable": true,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.826,
+    "answer": null,
+    "cited": [],
+    "problems": [
+      "wrongly_escalated:llm_invalid_output"
+    ]
+  },
+  {
+    "question": "What is your CEO's name?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "low_retrieval",
+    "top_score": 0.44,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "How much caffeine is in a cup of Guji Natural?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.711,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "Can I visit the roastery for a tour?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.59,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "Do you have a mobile app?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.511,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "Are your coffees certified organic?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.687,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "Do you sell gift cards?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.535,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "What's the weather like in Addis Ababa today?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.612,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "I forgot to cancel my subscription and was charged. Can I get that month refunded?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.763,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  },
+  {
+    "question": "How many people work at Abyssinia Roast Co.?",
+    "answerable": false,
+    "status": "escalated",
+    "reason": "llm_invalid_output",
+    "top_score": 0.784,
+    "answer": null,
+    "cited": [],
+    "problems": []
+  }
+]

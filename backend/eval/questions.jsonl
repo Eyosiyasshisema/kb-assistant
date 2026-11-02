@@ -1,0 +1,30 @@
+{"question": "How long will it take to get my order if I live in Addis Ababa?", "answerable": true, "expected_sources": ["shipping.md"], "must_contain": ["1", "2"]}
+{"question": "I'm in Hawassa. When should my coffee arrive?", "answerable": true, "expected_sources": ["shipping.md"], "must_contain": ["3", "5"]}
+{"question": "How much do I need to spend to get free shipping?", "answerable": true, "expected_sources": ["shipping.md"], "must_contain": ["2500"]}
+{"question": "Can you send coffee to someone in Kenya?", "answerable": true, "expected_sources": ["shipping.md"], "must_contain": []}
+{"question": "I bought a bag but changed my mind and haven't opened it. How long do I have to send it back?", "answerable": true, "expected_sources": ["returns.md"], "must_contain": ["14"]}
+{"question": "Can I return a bag I already opened because I didn't like the taste?", "answerable": true, "expected_sources": ["returns.md"], "must_contain": ["open"]}
+{"question": "The bag I received was torn. How quickly do I need to tell you?", "answerable": true, "expected_sources": ["returns.md"], "must_contain": ["48"]}
+{"question": "When will my money come back after you receive my return?", "answerable": true, "expected_sources": ["returns.md"], "must_contain": ["5"]}
+{"question": "How much is the Starter subscription?", "answerable": true, "expected_sources": ["subscriptions.md"], "must_contain": ["480"]}
+{"question": "How many bags come with the Family plan?", "answerable": true, "expected_sources": ["subscriptions.md"], "must_contain": ["4"]}
+{"question": "How far ahead do I need to act if I want to skip next month's delivery?", "answerable": true, "expected_sources": ["subscriptions.md"], "must_contain": ["3"]}
+{"question": "Which coffee should I choose if I like bright, floral flavours?", "answerable": true, "expected_sources": ["products.md"], "must_contain": ["yirgacheffe"]}
+{"question": "How fresh is the coffee when it arrives?", "answerable": true, "expected_sources": ["products.md"], "must_contain": ["48"]}
+{"question": "Is cash on delivery available, and is there a limit?", "answerable": true, "expected_sources": ["payments.md"], "must_contain": ["3000"]}
+{"question": "Can I use a promo code on top of the new-subscriber discount?", "answerable": true, "expected_sources": ["payments.md"], "must_contain": ["combin"]}
+{"question": "What water temperature and coffee-to-water ratio should I use for pour-over?", "answerable": true, "expected_sources": ["brewing-guide.md"], "must_contain": ["92", "15", "240"]}
+{"question": "What's your recommended espresso recipe?", "answerable": true, "expected_sources": ["brewing-guide.md"], "must_contain": ["18", "36"]}
+{"question": "When can I contact your support team?", "answerable": true, "expected_sources": ["about-contact.md"], "must_contain": ["8:30"]}
+{"question": "What's the smallest wholesale order for a cafe?", "answerable": true, "expected_sources": ["about-contact.md"], "must_contain": ["10"]}
+{"question": "I'm a new customer taking the Enthusiast plan. What will I pay for my first month?", "answerable": true, "expected_sources": ["subscriptions.md"], "must_contain": ["810"]}
+{"question": "My order is 2,000 ETB and I'm in Addis Ababa. Can I pay cash on delivery, and what will shipping cost?", "answerable": true, "expected_sources": ["payments.md", "shipping.md"], "must_contain": ["120"]}
+{"question": "What is your CEO's name?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "How much caffeine is in a cup of Guji Natural?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "Can I visit the roastery for a tour?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "Do you have a mobile app?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "Are your coffees certified organic?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "Do you sell gift cards?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "What's the weather like in Addis Ababa today?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "I forgot to cancel my subscription and was charged. Can I get that month refunded?", "answerable": false, "expected_sources": [], "must_contain": []}
+{"question": "How many people work at Abyssinia Roast Co.?", "answerable": false, "expected_sources": [], "must_contain": []}

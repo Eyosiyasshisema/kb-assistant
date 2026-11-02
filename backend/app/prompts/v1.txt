@@ -1,0 +1,1 @@
+Answer the question using only the numbered context passages. Respond as JSON with the fields: answerable, answer, citations, confidence.

@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+psycopg[binary,pool]
+pgvector
+pydantic-settings
+google-genai
+fastembed
+pypdf
+trafilatura
+httpx
+python-multipart
+numpy
+pytest
