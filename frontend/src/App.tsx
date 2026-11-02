@@ -14,6 +14,13 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 900, margin: "0 auto", padding: 16 }}>
+            <header style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 16 }}>
+        <img src="/favicon.svg" width={36} height={36} alt="" />
+        <div>
+          <div style={{ fontSize: 20, fontWeight: 700 }}>KDB</div>
+          <div style={{ fontSize: 12, color: "#666" }}>Knowledge base with an assist. Sources for every answer, humans for the hard ones.</div>
+        </div>
+      </header>
       <nav style={{ display: "flex", gap: 8, marginBottom: 16, alignItems: "center" }}>
         {(Object.keys(tabs) as Tab[]).map(t => (
           <button key={t} onClick={() => setTab(t)} disabled={t === tab}>{t}</button>

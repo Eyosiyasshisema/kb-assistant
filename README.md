@@ -1,6 +1,6 @@
-# Knowledge Assistant with Citations and Human Review
+# KDB: Knowledge-Base Assistant with Citations and Human Review
 
-A support assistant that answers questions **only from your own documents and web pages**, shows the **source for every answer**, and **hands uncertain questions to a human** instead of guessing. Every conversation is logged, and an analytics page shows the most common questions and the gaps in your documentation.
+**KDB** stands for **K**nowledge **B**ase, and, since it provides the assist for your team, it's also a nod to a certain Belgian playmaker. It answers questions **only from your own documents and web pages**, shows the **source for every answer**, and **hands uncertain questions to a human** instead of guessing. Every conversation is logged, and an analytics page shows the most common questions and the gaps in your documentation.
 
 **Live demo:** https://kb-assistant-admin.onrender.com/
 **Source code:** https://github.com/Eyosiyasshisema/kb-assistant
